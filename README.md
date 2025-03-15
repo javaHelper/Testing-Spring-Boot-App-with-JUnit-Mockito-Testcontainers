@@ -713,7 +713,7 @@ public abstract class AbstractContainerBaseTest {
 ```
 
 
-```
+```java
 import com.example.entity.Employee;
 import com.example.repository.EmployeeRepository;
 import com.fasterxml.jackson.databind.ObjectMapper;
@@ -892,7 +892,7 @@ public class EmployeeControllerIT extends AbstractContainerBaseTest {
 }
 ```
 
-```
+```java
 import com.example.entity.Employee;
 import com.example.repository.EmployeeRepository;
 import com.fasterxml.jackson.databind.ObjectMapper;
